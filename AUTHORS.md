@@ -53,6 +53,7 @@ Resque Scheduler authors
 - Olek Janiszewski
 - Olivier Brisse
 - Petteri Räty
+- Pieter Steyn
 - Phil Cohen
 - Rob Olson
 - Russell Branca
